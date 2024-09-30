@@ -25,7 +25,8 @@ namespace MetodoBurbuja
         {
             Bubble bubble = new Bubble();
             bubble.bubbleSort(numbers);
-            
+            ShowNumbers();
+
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -33,6 +34,7 @@ namespace MetodoBurbuja
             int number = int.Parse(tbNumber.Text);
             numbers[i] = number;
             ShowNumbers();
+            clear();
 
         }
         public void ShowNumbers()
@@ -46,6 +48,10 @@ namespace MetodoBurbuja
                 lbNumeros.Items.Add(numbers);
             }
         }
-        private void btn
+        private void clear()
+        {
+            tbNumber.Clear();
+            tbNumber.Focus();
+        }
     }
 }

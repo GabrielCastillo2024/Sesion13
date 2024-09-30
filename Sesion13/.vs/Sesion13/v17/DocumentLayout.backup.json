@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\Registro.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\Registro.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF6B36B-4780-4619-8AF8-C7B7CDD26BAE}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\Registro.csproj|c:\\users\\gabri\\desktop\\uam clases\\mype grupo 3\\sesion 13 dia 30 de agosto\\sesion13\\windowsformsapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02054BD-0C0C-4634-B1C9-453F54B079B6}|WindowsFormsApp1\\Registro.csproj|solutionrelative:windowsformsapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,38 +32,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\Form1.cs",
-              "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\Form1.cs",
-              "RelativeToolTip": "MetodoBurbuja\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDAAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T16:09:03.816Z",
+              "WhenOpened": "2024-09-30T16:32:57.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bubble.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\models\\Bubble.cs",
-              "RelativeDocumentMoniker": "MetodoBurbuja\\models\\Bubble.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\models\\Bubble.cs",
-              "RelativeToolTip": "MetodoBurbuja\\models\\Bubble.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\models\\Product.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\models\\Product.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:55:41.489Z",
+              "WhenOpened": "2024-09-30T16:31:38.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\Form1.cs",
-              "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\MetodoBurbuja\\Form1.cs [Design]",
-              "RelativeToolTip": "MetodoBurbuja\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UAM CLASES\\MYPE Grupo 3\\Sesion 13 dia 30 de agosto\\Sesion13\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:53:50.416Z",
+              "WhenOpened": "2024-09-30T16:26:06.472Z",
               "EditorCaption": " [Design]"
             }
           ]
